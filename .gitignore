@@ -1,0 +1,4 @@
+app/var/
+*.sqlite
+*.sqlite-*
+node_modules/

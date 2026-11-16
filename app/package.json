@@ -1,0 +1,12 @@
+{
+  "name": "tri-kluba",
+  "private": true,
+  "type": "module",
+  "description": "Три клуба: футбольная игра с друзьями в браузере и Telegram",
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "start": "node server/server.mjs",
+    "data": "node data/build-data.mjs",
+    "test": "node --test"
+  }
+}
