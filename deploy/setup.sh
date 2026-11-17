@@ -50,7 +50,7 @@ DATA_DIR=$DATA_DIR
 BOT_TOKEN=
 # Короткое имя Mini App из @BotFather (/newapp), например play:
 APP_SHORT_NAME=
-# Куда копировать ночную копию базы, например root@резервный.сервер:/var/backups/tri-kluba
+# Куда копировать ночную копию базы (резерв у другого российского провайдера), например root@IP-резерва:/var/backups/tri-kluba
 RESERVE_SSH=
 # Автообновление из GitHub: 1 — включено, 0 — выключено
 AUTO_UPDATE=1
